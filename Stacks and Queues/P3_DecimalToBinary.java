@@ -17,7 +17,7 @@ public class P3_DecimalToBinary {
 //			System.out.println("0");
 //		}
 
-		// now with stack :D
+		// with stack:
 
 		ArrayDeque<Integer> binary = new ArrayDeque<>();
 
