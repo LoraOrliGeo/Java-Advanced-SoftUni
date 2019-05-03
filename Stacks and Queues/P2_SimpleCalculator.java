@@ -13,7 +13,7 @@ public class P2_SimpleCalculator {
 		String[] tokens = sc.nextLine().split("\\s+");
 		ArrayDeque<String> stack = new ArrayDeque<>();
 		
-		// to fill the stack - 2 ways: reversed for OR Collections.addAll (faster):
+		// to fill the stack - 2 ways: reversed for loop OR Collections.addAll (faster):
 		
 //		for (int i = tokens.length - 1; i >= 0 ; i--) {
 //			stack.push(tokens[i]);
