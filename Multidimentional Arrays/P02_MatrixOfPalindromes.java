@@ -1,5 +1,3 @@
-package a021_MultidimentionalArrays_Ex;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -25,6 +23,5 @@ public class P02_MatrixOfPalindromes {
 			startSymbol++;
 			System.out.println();
 		}
-		
 	}
 }
