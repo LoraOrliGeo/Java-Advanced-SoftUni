@@ -1,5 +1,3 @@
-package a021_MultidimentionalArrays_Ex;
-
 import java.util.Scanner;
 
 public class P03_DiagonalDifference {
